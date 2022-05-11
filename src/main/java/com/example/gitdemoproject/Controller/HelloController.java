@@ -14,6 +14,7 @@ public class HelloController {
         time = "第1次 创建项目";
         time += "第2次 添加内容";
         time += "第3次 添加内容";
+        time += "第4次，新分支";
         return time;
     }
 }
