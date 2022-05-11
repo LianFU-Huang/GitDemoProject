@@ -12,6 +12,7 @@ public class HelloController {
     public String hello() {
         String time = new String();
         time = "第1次 创建项目";
+        time += "第2次 添加内容 尝试合并";
         return time;
     }
 }
